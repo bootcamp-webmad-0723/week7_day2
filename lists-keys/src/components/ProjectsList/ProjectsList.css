@@ -1,0 +1,11 @@
+.ProjectsList {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.ProjectsList article {
+    padding: 50px 10px;
+    border: 1px solid;
+    margin: 0 10px;
+}
